@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"pyo3_asyncio_0_21":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.78.0/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"struct\" href=\"pyo3_asyncio_0_21/err/struct.RustPanic.html\" title=\"struct pyo3_asyncio_0_21::err::RustPanic\">RustPanic</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.78.0/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"struct\" href=\"pyo3_asyncio_0_21/struct.TaskLocals.html\" title=\"struct pyo3_asyncio_0_21::TaskLocals\">TaskLocals</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
